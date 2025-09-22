@@ -1,0 +1,10 @@
+command_id: 750.758.2116|t=96,e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    LEXUS_TT_FL_V2: 32
+    LEXUS_TT_FR_V3: 31
+    LEXUS_TT_RL_V3: 33
+    LEXUS_TT_RR_V3: 32
+  response: |-
+    7582A10076116484749
+    7582A21480000000000
