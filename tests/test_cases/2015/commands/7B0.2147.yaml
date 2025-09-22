@@ -1,0 +1,10 @@
+command_id: 7B0.2147
+test_cases:
+- expected_values:
+    LEXUS_LAT_G: -0.04
+    LEXUS_LNG_G: 0.02
+    LEXUS_STEER_ANGLE: -348
+    LEXUS_YAW_RATE: 0
+  response: |-
+    7B810096147FE018072
+    7B82168000000000000
